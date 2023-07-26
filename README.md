@@ -1,4 +1,4 @@
 #Machine Learning Model#
 
-Performed various steps of Data Cleaning on the titanic datasets.
+Performed various steps of Data Cleaning on the titanic datasets.<br>
 Created and Trained a model to predict the survived person on titanic using titanic datasets.
